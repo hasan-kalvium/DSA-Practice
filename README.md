@@ -1,1 +1,1 @@
-# Project to Practice Data structure and Algorithms
+# Practice Questions of Data structure and Algorithms
